@@ -16,6 +16,8 @@
  * const result1 = connected1();
  * result1 is { x: 1, y: 2 }
  *
+ * Object assign is not allowed for this task
+ *
  * @param {Object} baseParams
  * @return {Function}
  */
