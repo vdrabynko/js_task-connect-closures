@@ -10,11 +10,11 @@
  *
  * const connected1 = connect({ x: 1, y: 2 });
  * const result1 = connected1({ z: 3, x: 10 });
- * result1 return { x: 10, y: 2, z: 3 }
+ * result1 is { x: 10, y: 2, z: 3 }
  *
  * const connected1 = connect({ x: 1, y: 2 });
  * const result1 = connected1();
- * result1 return { x: 1, y: 2 }
+ * result1 is { x: 1, y: 2 }
  *
  * @param {Object} baseParams
  * @return {Function}
