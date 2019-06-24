@@ -1,4 +1,4 @@
-# Boilerplate for JS tasks
+# Task Connect
 
 **Read the guideline before start**
 
