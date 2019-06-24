@@ -1,7 +1,7 @@
 {
   "name": "js-task-connect",
   "version": "1.0.0",
-  "description": "js task for closers practice",
+  "description": "js task for closures practice",
   "main": "src/connect.js",
   "scripts": {
     "test": "jest",
